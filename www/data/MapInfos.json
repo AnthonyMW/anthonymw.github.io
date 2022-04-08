@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":false,"name":"oHouse","order":1,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":2,"expanded":false,"name":"iHouse","order":2,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":false,"name":"bpass","order":3,"parentId":0,"scrollX":2184,"scrollY":1229.3333333333333},
+{"id":4,"expanded":false,"name":"bpassdungeon","order":4,"parentId":3,"scrollX":2184,"scrollY":1229.3333333333333},
+{"id":5,"expanded":false,"name":"bpassdungeonlow","order":5,"parentId":4,"scrollX":2162.6666666666665,"scrollY":1229.3333333333333},
+{"id":6,"expanded":false,"name":"lowlevel1","order":6,"parentId":5,"scrollX":1404,"scrollY":790.2857142857142},
+{"id":7,"expanded":false,"name":"lowlevel2","order":7,"parentId":5,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"dungeonbroom","order":8,"parentId":5,"scrollX":1404,"scrollY":790.2857142857142},
+{"id":9,"expanded":false,"name":"otherplace","order":9,"parentId":0,"scrollX":2184,"scrollY":1229.3333333333333}
+]
